@@ -33,8 +33,10 @@
 7. Die meisten überprüften Zoogehege sind ungeeignet, um die artspezifischen Bedürfnisse der Tiere zu erfüllen.
 > In 87 Prozent der Gehege fehlte jede Art von Verhaltens- und Beschäftigungsmaterial. Knapp ein Drittel der Gehege erfüllte nicht einmal die behördlich vorgegebenen Mindestanforderungen.
 
-
 ## Argumente für Zoos
 1. Starker Zusammenhang zwischen Besucherzahlen von Zoos und der Anzahl an geförderten Artenschutzprojekten [(Quelle)](https://www.nature.com/articles/s41467-020-14303-2) (Richtig? Siehe Punkt 6 Argumente gegen Zoos)
 2. Zootiere lassen sich leichter beobachten und untersuchen ➡ Forschung
 3. Zoos bieten Kinder die Möglichkeit, Tiere hautnah zu erleben und dabei spielerisch zu lernen. - Bildung (Richtig? Siehe Punkt 4 Argumente gegen Zoos)
+
+## Tierfreundliche Alternativen
+Es gibt viele tierfreundliche Möglichkeiten für Kinder und Erwachsene, die natürlichen Bedürfnisse und Lebensweisen von Tieren kennenzulernen – zum Beispiel auf einer Entdeckungstour durch die heimische Natur oder in Form von Mithilfe auf einem Lebenshof. Auch lernt man viel mehr über das natürliche Verhalten von Tieren durch Dokumentarfilme als durch das Anschauen von seelisch kranken Tieren in Zoo-Gefangenschaft.
