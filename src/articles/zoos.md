@@ -20,11 +20,12 @@
     - Tiere werden im Überschuss gezüchtet (mehr als sie unterbringen können)
     - Wenn Tiere zu alt sind werden sie getötet oder an Tierhändler verkauft
     > PETA wies nach, dass der Tierpark Berlin zwischen 2007 und 2009 über 1.000 Tiere an den Händler Werner Bode verkaufte, der unter anderen mit Versuchslaboren, Exotenrestaurants und chinesischen Zuchtfarmen kooperiert [(Quelle)](https://www.bz-berlin.de/artikel-archiv/zoo-tierhaendler-verkaufte-affen-an-versuchslabor)
-    ![Zebra](https://www.peta.de/wp-content/uploads/2020/11/2016-04-gekoepftes-Zebra-Zoo-Kristiansand-Dyrepark-c-PETA-UK.jpg)
     
     > Da Zoos immer ein Profitinteresse verfolgen, ist nicht davon auszugehen, dass sie im Sinne der Tiere handeln.
 
     > Auch der Zoo Duisburg, der Zoo Hannover, der Serengeti-Park Hodenhagen, der Zoo München (Hellabrunn), der Zoo Saarbrücken, der Opel-Zoo Kronberg, der Zoo Dresden, der Tierpark Bochum und der Zoo Aschersleben führten Geschäftsbeziehungen mit dem Tierhändler. [(Quelle)](https://www.bz-berlin.de/artikel-archiv/zoo-tierhaendler-verkaufte-affen-an-versuchslabor)
+
+![Zebra](https://www.peta.de/wp-content/uploads/2020/11/2016-04-gekoepftes-Zebra-Zoo-Kristiansand-Dyrepark-c-PETA-UK.jpg)
 6. Artenschutz nur vorgeschoben [(Quelle)](https://www.peta.de/themen/Zoo/)
     - Nur 20 bis 25 Prozent der weltweit bedrohten Säugetiere werden in Zoos gehalten. Bei Reptilien nur 3 Prozent!
     - Nur ein geringer Bruchteil ihres jährlichen Budgets für Naturschutzprojekte, obwohl sie mehrere duzend Millionen Euro an Subventionen bekommen
