@@ -32,4 +32,4 @@
 ## Argumente für Zoos
 1. Starker Zusammenhang zwischen Besucherzahlen von Zoos und der Anzahl an geförderten Artenschutzprojekten [(Quelle)](https://www.nature.com/articles/s41467-020-14303-2) (Richtig? Siehe Punkt 6 Argumente gegen Zoos)
 2. Zootiere lassen sich leichter beobachten und untersuchen ➡ Forschung
-3. Zoos bieten Kinder die Möglichkeit, Tiere hautnah zu erleben und dabei spielerisch zu lernen. - Bildung (Richtig? Siehe Punkt 3 Argumente gegen Zoos)
+3. Zoos bieten Kinder die Möglichkeit, Tiere hautnah zu erleben und dabei spielerisch zu lernen. - Bildung (Richtig? Siehe Punkt 4 Argumente gegen Zoos)
