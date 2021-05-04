@@ -24,12 +24,12 @@
     
     > Da Zoos immer ein Profitinteresse verfolgen, ist nicht davon auszugehen, dass sie im Sinne der Tiere handeln.
 
-    > Auch der Zoo Duisburg, der Zoo Hannover, der Serengeti-Park Hodenhagen, der Zoo München (Hellabrunn), der Zoo Saarbrücken, der Opel-Zoo Kronberg, der Zoo Dresden, der Tierpark Bochum und der Zoo Aschersleben führten Geschäftsbeziehungen mit dem Tierhändler.
+    > Auch der Zoo Duisburg, der Zoo Hannover, der Serengeti-Park Hodenhagen, der Zoo München (Hellabrunn), der Zoo Saarbrücken, der Opel-Zoo Kronberg, der Zoo Dresden, der Tierpark Bochum und der Zoo Aschersleben führten Geschäftsbeziehungen mit dem Tierhändler. [(Quelle)](https://www.bz-berlin.de/artikel-archiv/zoo-tierhaendler-verkaufte-affen-an-versuchslabor)
 6. Artenschutz nur vorgeschoben [(Quelle)](https://www.peta.de/themen/Zoo/)
     - Nur 20 bis 25 Prozent der weltweit bedrohten Säugetiere werden in Zoos gehalten. Bei Reptilien nur 3 Prozent!
     - Nur ein geringer Bruchteil ihres jährlichen Budgets für Naturschutzprojekte, obwohl sie mehrere duzend Millionen Euro an Subventionen bekommen
 7. Die meisten überprüften Zoogehege sind ungeeignet, um die artspezifischen Bedürfnisse der Tiere zu erfüllen.
-> In 87 Prozent der Gehege fehlte jede Art von Verhaltens- und Beschäftigungsmaterial. Knapp ein Drittel der Gehege erfüllte nicht einmal die behördlich vorgegebenen Mindestanforderungen. [(Quelle)](https://www.bz-berlin.de/artikel-archiv/zoo-tierhaendler-verkaufte-affen-an-versuchslabor)
+> In 87 Prozent der Gehege fehlte jede Art von Verhaltens- und Beschäftigungsmaterial. Knapp ein Drittel der Gehege erfüllte nicht einmal die behördlich vorgegebenen Mindestanforderungen.
 
 
 ## Argumente für Zoos
